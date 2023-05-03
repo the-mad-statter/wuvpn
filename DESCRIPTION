@@ -1,0 +1,19 @@
+Package: wuvpn
+Type: Package
+Title: Control the Washington University VPN Client from R
+Version: 0.1.0
+Authors@R: 
+    person(given = "Matthew",
+           family = "Schuelke",
+           role = c("aut", "cre"),
+           email = "matt@themadstatter.com",
+           comment = c(ORCID = "0000-0001-5755-1725"))
+Description: The R package wuvpn provides bindings for the Washington 
+    University VPN client.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/the-mad-statter/wuvpn
+BugReports: https://github.com/the-mad-statter/wuvpn/issues
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
